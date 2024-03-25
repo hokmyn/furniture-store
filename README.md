@@ -1,4 +1,4 @@
-Адаптивный вебсайт Panto - furniture store
+## Адаптивный вебсайт Panto - furniture store
 
-Используемые технологии HTML, CSS, JS, SCSS, Gulp.
+Используемые технологии HTML, CSS, JS, SCSS, Swiper.js, Gulp.
 
